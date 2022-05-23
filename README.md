@@ -1,4 +1,4 @@
-![Header](./profile-banner.png)
+![Header](./banner.png)
 
 - 🔭 I’m currently working on **Labsit**
 
